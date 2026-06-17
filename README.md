@@ -1,4 +1,4 @@
-About Me:
+
 currently learning programming languages
 
 
