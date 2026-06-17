@@ -1,7 +1,3 @@
-
-currently learning programming languages
-
-
 ##  Socials:
 [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Yvenchy) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Prince) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:artatesprincesoria@gmail.com) 
 
@@ -14,4 +10,3 @@ currently learning programming languages
 
 ---
 [![](https://komarev.com/ghpvc/?username=Pie-Bytes&icon=2&color=12)](https://visitcount.itsvg.in)
-
